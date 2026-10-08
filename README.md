@@ -1,12 +1,12 @@
 # Tushar Salhotra — Next.js Portfolio
 
-**🔗 Live portfolio: https://tusharsalhotra.github.io/tushar-nextjs-portfolio/**
+**🔗 Live portfolio: https://tusharsalhotra2158.github.io/tushar-nextjs-portfolio/**
 
 A responsive, SEO-ready portfolio built from the supplied resume.
 
-- **Portfolio:** https://tusharsalhotra.github.io/tushar-nextjs-portfolio/
+- **Portfolio:** https://tusharsalhotra2158.github.io/tushar-nextjs-portfolio/
 - **LinkedIn:** https://www.linkedin.com/in/tushar-salhotra-b59382194/
-- **GitHub:** https://github.com/TusharSalhotra
+- **GitHub:** https://github.com/tusharsalhotra2158
 
 ## Run locally
 
@@ -35,6 +35,6 @@ npm start
 This site is statically exported (`output: "export"` in `next.config.mjs`) and auto-deployed to
 **GitHub Pages** via `.github/workflows/deploy.yml` on every push to `main`.
 
-- Live URL: https://tusharsalhotra.github.io/tushar-nextjs-portfolio/
+- Live URL: https://tusharsalhotra2158.github.io/tushar-nextjs-portfolio/
 - To deploy elsewhere (Vercel, Netlify, any static host), just run `npm run build` — the
   static site is generated in `out/`.
